@@ -9,6 +9,7 @@ I write at [jayclark.ai](https://jayclark.ai) about agent reliability and about 
 ## Building
 
 - **[surfacelock](https://github.com/JsizzleR/surfacelock)** — `tools.lock`, a lockfile for MCP tool surfaces: pin, verify, and diff what your agent is told it can trust. An agent's tools are a trust boundary; treat them like dependencies.
+- **[buddy-system](https://github.com/JsizzleR/buddy-system)** — a claims ledger and retro chat presence for fleets of AI coding agents. Agents claim a scope of the repo before working it; edits inside another session's claim are denied at the tool-call boundary; the whole fleet stays visible in a chat room — modern IRC, or a real AIM 5.1 client when nostalgia calls. Chat is the view, never the lock.
 - **[jayclark.ai](https://jayclark.ai)** — essays on building software with AI coding agents.
 - **[yourhonor](https://github.com/JsizzleR/yourhonor)** — R package that calibrates an LLM-as-judge: treat it as a measurement instrument and report its psychometrics.
 - **[tripwire](https://github.com/JsizzleR/tripwire)** — R package that catches silent failures in data-analysis steps (joins that quietly drop or multiply rows), with an MCP server so agents can run the checks.
