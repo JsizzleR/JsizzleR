@@ -6,6 +6,8 @@ I build and operate production AI. At [Posit](https://posit.co) — the data-sci
 
 - **[surfacelock](https://github.com/JsizzleR/surfacelock)** — `tools.lock`, a lockfile for MCP tool surfaces: pin, verify, and diff what your agent is told it can trust. An agent's tools are a trust boundary; treat them like dependencies.
 - **[jayclark.ai](https://jayclark.ai)** — essays on building software with AI coding agents.
+- **[yourhonor](https://github.com/JsizzleR/yourhonor)** — R package that calibrates an LLM-as-judge: treat it as a measurement instrument and report its psychometrics.
+- **[tripwire](https://github.com/JsizzleR/tripwire)** — R package that catches silent failures in data-analysis steps (joins that quietly drop or multiply rows), with an MCP server so agents can run the checks.
 
 ## Focus
 
