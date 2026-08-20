@@ -10,7 +10,7 @@ I build and operate production AI. At [Posit](https://posit.co) — the data-sci
 ## Focus
 
 - **Production LLM systems** — RAG, tool-calling agents (MCP), evals & drift detection, model cost optimization
-- **Agent security** — container isolation, egress control, tool-surface verification
+- **Agent security** — least privilege enforced below the model, not in the prompt: container isolation, egress control, tool-surface verification. Prompt injection can't exercise a capability that was never granted.
 - **Enterprise infrastructure** — Linux, containers, networking, auth & SSO (SAML, OIDC, OAuth2), distributed deployments
 - **Languages** — Python, Go, R, SQL
 
