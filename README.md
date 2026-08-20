@@ -1,6 +1,10 @@
 # Jay Clark
 
-I build and operate production AI. At [Posit](https://posit.co) — the data-science company behind RStudio — enterprise support drafts its frontline replies with LLM systems I shipped. I'm also the last stop for broken enterprise deployments across Linux, containers, and distributed infrastructure such as Kubernetes.
+I build production AI systems, and I'm also the person they call when somebody else's production breaks.
+
+The second half is what makes the first half work. Nine years of enterprise escalations taught me what people actually do to software, which is rarely what the design assumed. So I build expecting them to find the edge. They always do.
+
+I write at [jayclark.ai](https://jayclark.ai) about agent reliability and about building software with coding agents. Nothing survives production on good intentions, and no rule survives on being remembered. The rules that matter get written into a file or enforced by a script.
 
 ## Building
 
